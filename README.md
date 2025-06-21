@@ -32,7 +32,7 @@ Aspiring developer | Tech enthusiast | Passionate about web and digital creativi
 
 ## 📷 Screenshot
 
-![Resume Screenshot](resume-screenshot.png)
+![Resume Screenshot](resume-screenshot.PNG)
 
 
 ---
